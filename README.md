@@ -1,2 +1,3 @@
-# spring-boot-onboarding
-Spring Boot &amp; Dapr Workflows onboarding to Catalyst
+# Spring Boot & Dapr Workflows Example
+
+
